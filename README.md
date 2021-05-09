@@ -1,3 +1,4 @@
-This is a place for thought to grow. 
+This is a garden for thought
 
-Please send comments or questions to undergoing dot culture at protonmail dot com (humans only, please)
+- [Poems](https://github.com/culturing/Poems)
+- [Music](https://culturing.github.io/Music)
